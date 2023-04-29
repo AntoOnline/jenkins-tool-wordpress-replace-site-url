@@ -25,3 +25,9 @@ This stage replaces the old URL with the new URL in the WordPress database using
 - `wp_postmeta`
 
 It uses the parameters provided in the pipeline to connect to the MySQL server and authenticate the user.
+
+## Want to connect?
+
+Feel free to contact me on [Twitter](https://twitter.com/OnlineAnto) or [LinkedIn](https://www.linkedin.com/in/anto-online) if you have any questions or suggestions.
+
+Or just visit my [website](https://anto.online) to see what I do.
